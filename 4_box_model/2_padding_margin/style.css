@@ -1,3 +1,6 @@
+
+
+
 div{
     border: 4px dotted  blueviolet;
     width: fit-content;
@@ -29,11 +32,22 @@ div{
 
      padding-inline: 40px; /*padding na horizontal */
      padding-block: 20px;  /* padding na vertical*/
-     
 
+}
 
+h1{
+    border: 1px solid red;
+    margin-bottom: 20px;
+}
 
+.algum{
+    margin-bottom: 100px;
+}
 
+.outro{
+    margin-inline: auto
+}
 
-
+.ultimo{
+    margin-top: 50px;
 }
